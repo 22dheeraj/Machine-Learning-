@@ -62,14 +62,15 @@ The analysis aims to:
 
 - **Model Comparison Table:**
 
-Final Model Evaluation Summary:
-                      R²   RMSE    MAE
-XGBoost (Tuned)    0.717  0.381  0.276
-Random Forest      0.699  0.393  0.283
-SVM Regressor      0.637  0.432  0.314
-Linear Regression  0.605  0.450  0.333
-KNN Regressor      0.557  0.477  0.352
-Decision Tree      0.402  0.554  0.397
+
+| Algorithm               | R²     | RMSE   | MAE   |
+|------------------------|--------|--------|-------|
+| **XGBoost (Tuned)**    | 0.717  | 0.381  | 0.276 |
+| Random Forest          | 0.699  | 0.393  | 0.283 |
+| SVM Regressor          | 0.637  | 0.432  | 0.314 |
+| Linear Regression      | 0.605  | 0.450  | 0.333 |
+| KNN Regressor          | 0.557  | 0.477  | 0.352 |
+| Decision Tree          | 0.402  | 0.554  | 0.397 |
 
 ---
 
